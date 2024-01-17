@@ -4,6 +4,7 @@ Features:
 * User-friendly Interface: Built with Streamlit to offer an interactive and visually appealing user interface.
 * Recommendation Algorithm: Utilizes collaborative filtering to provide accurate and relevant movie suggestions.
 * Dynamic Movie Details: Fetches real-time movie details such as release date, rating, and poster using TMDb API.
+  
         ** Technologies Used: **
 1) Python
 2) Streamlit
